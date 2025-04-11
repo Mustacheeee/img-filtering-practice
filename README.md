@@ -43,5 +43,5 @@ This project demonstrates how to apply various image preprocessing techniques us
 ## ▶️ Try It Yourself
 
 You can open and run the notebook directly on Colab here:  
-📎 [Open in Colab]([https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/your_notebook_name.ipynb](https://colab.research.google.com/drive/139rThjjj4xwW34ZLkm3kq_y1cx04IFzq?usp=sharing))
+📎 [Open in Colab](https://colab.research.google.com/drive/139rThjjj4xwW34ZLkm3kq_y1cx04IFzq?usp=sharing)
 
